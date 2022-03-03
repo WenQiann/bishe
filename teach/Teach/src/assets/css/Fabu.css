@@ -1,0 +1,66 @@
+.grid {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding: 3rem 0 4rem 0;
+  }
+  .grid table {
+    border-top: 1px solid #c2d89a;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+  }
+  .biao1{
+      width: 6rem;
+      border: 1px solid yellowgreen;
+  }
+  .biao2{
+    width: 13rem;
+    border: 1px solid yellowgreen;
+  }
+  .biao3{
+    width: 6rem;
+    border: 1px solid yellowgreen;
+  }
+  .ge {
+    padding: 10;
+    border: 1px solid yellowgreen;
+    height: 35px;
+    line-height: 35px;
+    width: 3rem;
+    font-weight: bold;
+  }
+  .grid .book {
+    padding-bottom: 10px;
+    padding-top: 5px;
+    background: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp0.ssl.qhimgs1.com%2Fbdr%2F460__%2Ft01914c84525cb1f84e.jpg&refer=http%3A%2F%2Fp0.ssl.qhimgs1.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1631871282&t=be64f2c9226ea20105196ea7fcfa8dbb)
+      no-repeat;
+    background-size: 100% 200%;
+  }
+  .grid .book1 {
+    opacity: 0.7;
+  }
+  .book1 h3 {
+    text-align: left;
+    font-size: 16px;
+    float: left;
+    padding: 0.5rem 1rem;
+  }
+  h4{
+    text-align: left;
+    margin: 1rem 0;
+  }
+  h3 label span{
+    display: inline-block;
+    vertical-align: top
+  }
+  .btn{
+    width: 10rem;
+    margin: 1rem 0;
+  }
+  .zan{
+    width: 1.5rem;
+    height: 1.5rem;
+    float: left;
+    margin: 0.2rem 0 0 0.5rem;
+  }

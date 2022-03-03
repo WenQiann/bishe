@@ -1,0 +1,34 @@
+#people {
+    background: #fafafa;
+    padding: 3.5rem 0 0 0;
+  }
+  .body{
+    padding: 0 1rem;
+  }
+  .topz {
+    width: 100%;
+    height: 3rem;
+    line-height: 1rem;
+    background-color: yellowgreen;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+  }
+  .topz h3 {
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.5rem;
+    font-family: KaiTi;
+  }
+  .el-icon-back {
+    float: left;
+  }
+  .zhu{
+    color: #999;
+    font-size: 12px;
+    margin: 1rem;
+    text-align: center;
+  
+  }

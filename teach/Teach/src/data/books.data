@@ -1,0 +1,8 @@
+[
+     { "id": 0,"isClick": "false","dianzan":"12","img":"../../src/assets/img/haoping.png", "name": "李老师", "txt": "今日上课录课已上传，如有需要请及时查看。网址https://dushu.baidu.com" },
+     { "id": 1,"isClick": "false","dianzan":"12","img":"../../src/assets/img/haoping_1.png", "name": "美丽","txt": "《骆驼祥子》适合高年级同学，作者老舍，链接奉上https://dushu.baidu.com/pc/detail?gid=4308780549"},
+     { "id": 2,"isClick": "false","dianzan":"12","img":"../../src/assets/img/haoping.png", "name": "欣欣", "txt": "这个故事会很不错" },
+     { "id": 3,"isClick": "true","dianzan":"12","img":"../../src/assets/img/haoping.png", "name": "晶晶", "txt": "这个软件真好用" },
+     { "id": 4,"isClick": "false","dianzan":"12","img":"../../src/assets/img/haoping.png", "name": "悠悠", "txt": "我今天看见一个关于贵州山区的故事，挺有触动，地址https://baijiahao.baidu.com/s?id=164700" },
+     { "id": 5,"isClick": "false","dianzan":"12","img":"../../src/assets/img/haoping.png", "name": "静静", "txt": "勇敢牛牛，不怕困难" }         
+]

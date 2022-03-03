@@ -1,0 +1,67 @@
+#home {
+    padding: 3rem 0 4rem 0;
+  }
+  .study {
+    padding: 0.5rem;
+    color: gray;
+    margin: 0 0 0.5rem 0rem;
+    background: white;
+    border-radius: 0.5rem;
+    width: 95%;
+  }
+  .el-icon-notebook-1 {
+    font-size: 1.5rem;
+    color: skyblue;
+    margin-right: 0.3rem;
+  }
+  .line {
+    border-bottom: 0.1rem solid skyblue;
+    margin: 0.5rem 0;
+  }
+  .line span{
+    color: yellowgreen;
+  }
+  .el-icon-refresh{
+    color: yellowgreen;
+  }
+  
+  .study span {
+    float: right;
+  }
+  .el-carousel__item h3 {
+    color: #475669;
+    font-size: 14px;
+    opacity: 0.75;
+    line-height: 150px;
+    margin: 0;
+  }
+  .title {
+    width: 100%;
+    height: 2rem;
+    color: #fff;
+    line-height: 2rem;
+    padding: 0 0 0 1rem;
+    background: #65696559;
+    position: absolute;
+    top: 9rem;
+    z-index: 10;
+  }
+  .el-icon-notebook-1[data-v-2380d2d8] {
+      font-size: 1.5rem;
+      color: yellowgreen;
+      margin-right: 0.3rem;
+  }
+  .line[data-v-2380d2d8] {
+      border-bottom: 0.1rem solid yellowgreen;
+      margin: 0.5rem 0;
+  }
+  .el-loading-spinner .el-loading-text {
+    color: yellowgreen;
+  }
+  .el-icon-loading:before {
+    color: yellowgreen;
+}
+  /* .ping{
+    float: left;
+    text-align: left;
+  } */

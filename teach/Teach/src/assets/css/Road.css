@@ -1,0 +1,89 @@
+.roading {
+    width: 100%;
+    height: 36rem;
+    background: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fku.90sjimg.com%2Fback_pic%2F05%2F44%2F45%2F485a903554ca5b8.jpg%21%2Ffwfh%2F804x1206%2Fquality%2F90%2Funsharp%2Ftrue%2Fcompress%2Ftrue&refer=http%3A%2F%2Fku.90sjimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1631761035&t=a877c3dcb6316c6e126067050e219a35);
+    text-align: center;
+    padding: 5rem 0;
+    background-size: 100% 100%;
+  }
+  .center .deng {
+    color: #333;
+    font-size: 2rem;
+    margin: 3rem 0;
+    font-family: KaiTi;
+  }
+  .center {
+    width: 80%;
+    height: 100%;
+    background: transparent;
+    display: inline-block;
+    margin: 10rem 0 3srem 0;
+  }
+  .small {
+    width: 90%;
+    height: 0%;
+    background: transparent;
+    display: inline-block;
+    margin: 9rem 0;
+  }
+  .use,
+  .pwd {
+    border-bottom: 1px dashed slategray;
+  }
+  .el-icon-user,
+  .el-icon-lock {
+    font-size: 2rem;
+    margin: 0.6rem 0.8rem 0.6rem 0;
+  }
+  .use input {
+    outline: none;
+    width: 80%;
+    height: 2rem;
+    border: none;
+    color: #000;
+  }
+  .pwd input {
+    outline: none;
+    width: 80%;
+    height: 2rem;
+    border: none;
+  }
+  .more {
+    margin: 1rem 0;
+  }
+  .btn {
+    width: 90%;
+  }
+  .roading .forget {
+    float: right;
+    font-size: 0.8rem;
+    margin: 1.2rem 1.1rem 1.2rem 0;
+  }
+  .el-radio__input.is-disabled + span.el-radio__label {
+    color: #606266;
+  }
+  .el-radio__input.is-checked + .el-radio__label {
+    color: #333;
+  }
+  .el-radio__input.is-checked .el-radio__inner {
+    border-color: #333;
+    background: #333;
+  }
+   .el-button--primary {
+    color: #fff;
+    background-color: #b5d141;
+    border-color: #b5d141;
+  }
+   input:-internal-autofill-selected {
+    appearance: menulist-button;
+    background-color: rgb(0, 0, 0) !important;
+    background-image: none !important;
+    color: -internal-light-dark(black) !important;
+  }
+  input {
+    background: transparent;
+    color: #333;
+  }
+  .el-message-box{
+    width: 320px !important;
+  }

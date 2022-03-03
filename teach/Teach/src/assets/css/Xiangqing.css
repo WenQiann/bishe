@@ -1,0 +1,35 @@
+.topss {
+    width: 100%;
+    height: 3rem;
+    line-height: 1rem;
+    background-color: yellowgreen;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+  }
+  .topss h3 {
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.5rem;
+    font-family: KaiTi;
+  }
+  .el-icon-back {
+    float: left;
+  }
+  .center{
+    margin: 2.5rem 0 0 0;
+  }
+  .cen_i{
+      width: 100%;
+      height: 100%;
+  }
+  .center p{
+      margin: 1rem;
+  }
+  .center p span{
+      width: 75%;
+      display: inline-block;
+      vertical-align: top;
+  }

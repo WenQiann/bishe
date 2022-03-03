@@ -1,0 +1,121 @@
+#me {
+  padding: 3rem 0 4rem 0;
+}
+.meall {
+    width: 100%;
+    height: 38rem;
+  }
+  .top{
+    background: #e0dede6b;
+  }
+  .el-icon-switch-button {
+    margin: 0 0 0 1rem;
+  }
+  .head {
+    margin: 2rem 2rem;
+    float: left;
+  }
+  .el-avatar {
+    color: #333;
+    background: yellowgreen;
+    font-size: 20px;
+  }
+  .right {
+    width: 13rem;
+    height: 5rem;
+    /* float: left; */
+    margin: 3rem 1rem 0 1rem;
+    display: inline-block;
+  }
+  .right span {
+    height: auto;
+    color: #333;
+    border-bottom: 1px solid #999;
+  }
+  .right div{
+    height: auto;
+  }
+  .page{
+    text-decoration: none;
+  }
+  .exit {
+    float: none;
+    text-align: center;
+    height: 10rem;
+  }
+  .mass {
+    width: 26rem;
+    float: none;
+    display: inline-block;
+  }
+  .mass p {
+    height: 2rem;
+    line-height: 2rem;
+    padding: 0 2rem;
+  }
+  .kuai{
+    padding: 0 1rem;
+    margin: 0.5rem 0 0 0;
+    
+  }
+  .time{
+    text-align: right;
+    border-bottom: 1px solid #e0dede6b;
+  }
+  .el-button--primary:focus,
+  .el-button--primary:hover {
+    background: yellowgreen;
+    border-color: yellowgreen;
+    color: #fff;
+    /* margin: 2rem 0 0 0; */
+  }
+  .el-button--primary {
+    color: #fff;
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+    margin: 0rem 0 0 0;
+  }
+  .el-collapse {
+    margin: 0 0 2rem 0;
+}
+  .el-collapse-item__header {
+    background: #e0dede6b;
+    margin: 0.5rem 0 0 0;
+  }
+  .studys{
+    background: #e0dede6b;
+    margin: 5px 0 0 0 ;
+    width: 100%;
+    padding: 1rem 0 0 0;
+  }
+  .studys p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 0.5rem 0 0 0;
+  }
+  .more{
+    margin: 1rem 0 0 0;
+    text-align: center;
+  }
+  .el-loading-spinner .el-loading-text {
+    color: yellowgreen;
+  }
+.el-icon-loading:before {
+   
+    color: yellowgreen;
+}
+.titleq{
+  text-align: left;
+  font-weight: bold;
+}
+.titleq span{
+  float: right;
+  margin-right: 2rem;
+}
+.link{
+  text-decoration: none;
+}
+.btnk{
+  margin: 1rem 0 0 8rem;
+  width: 10rem;
+}

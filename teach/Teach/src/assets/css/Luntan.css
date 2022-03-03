@@ -1,0 +1,69 @@
+#luntan {
+    padding: 3.5rem 0 4rem 0;
+    background: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201802%2F22%2F20180222105116_4jnMN.thumb.700_0.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1631952192&t=880c735d65af610e4e9c840c46d82916);
+    background-size: 100% 100%;
+  
+  
+  }
+  .reply-input {
+    display: block;
+    border: 2px solid yellowgreen;
+    width: 19rem;
+    height: 2rem;
+    float: left;
+    margin: 0 0 0 0.5rem;
+  }
+  .header-img{
+      float: left;
+  }
+  .reply-input {
+    display: block;
+  }
+  .reply-btn-box {
+    display: block;
+    float: right;
+    /* margin-top: 0.5rem; */
+    margin-right: 0.5rem;
+  }
+  .el-button--primary {
+    color: #fff;
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+  }
+  input {
+    outline: yellowgreen;
+  }
+  .box {
+    width: 25rem;
+    display: inline-block;
+    margin: 0.5rem;
+  }
+  .icon-btn{
+      width: 3rem;
+      float: right;
+      margin-right: 0.5rem;
+  }
+  .author-info{
+      width: 20rem;
+      float: left;
+  }
+  /* .talk-box{
+     background: ;
+  } */
+  .reply-box{
+      background: #e0dede6b;
+      margin: 0.5rem 0rem 0.5rem 0;
+      padding: 0.1rem 0.1rem 0 1.5rem;
+  }
+  /* .reply-box .icon-btn{
+    margin-right: 0;
+  } */
+  .asker{
+      display: inline-block;
+  }
+  .reply{
+      display: inline-block;
+  }
+  .author-time{
+    color: #999;
+  }
